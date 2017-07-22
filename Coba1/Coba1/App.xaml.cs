@@ -13,7 +13,7 @@ namespace Coba1
 		{
 			InitializeComponent();
 
-			MainPage = new Coba1.MainPage();
+            MainPage = new NavigationPage(new FirstPage());
 		}
 
 		protected override void OnStart ()

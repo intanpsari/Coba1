@@ -13,5 +13,11 @@ namespace Coba1
 		{
 			InitializeComponent();
 		}
-	}
+
+        //public void Goodbye_Clicked(object o, EventArgs e)
+        //{
+        //    message.Text = "Goodbye, Intan";
+        //}
+
+    }
 }

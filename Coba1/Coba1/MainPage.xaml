@@ -4,8 +4,17 @@
              xmlns:local="clr-namespace:Coba1"
              x:Class="Coba1.MainPage">
 
-	<Label Text="Welcome to Xamarin Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
-
+    <!--<StackLayout Padding="20">
+        --><!--<Label x:Name="message"
+               Text="Hi, Intan!"
+               VerticalOptions="Center" 
+               HorizontalOptions="Center" />-->
+        <!--<Button
+            Text="Say Goodbye"
+            BackgroundColor="Gray"
+            Clicked="Goodbye_Clicked"
+            TextColor="White"
+        />--><!--
+        
+    </StackLayout>-->
 </ContentPage>
